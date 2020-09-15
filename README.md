@@ -18,6 +18,7 @@ Here is the link to download zip 👉
 - Open the folder in VS Code
 - Edit <code>front-end/src/key/key.js</code> and add your both keys from firebase and stripe account
 - Edit <code>back-end/key.js</code> and add your key stripe secret account
+- Edit <code>front-end/src/components/Axios.js</code> this your back-end payment method url
 - Open terminal in VS Code
 - RUN <code>npm init</code> , this command can be used to set up a new or existing npm package
 - RUN <code>npm install</code> , this command pulls out all the require node modules
