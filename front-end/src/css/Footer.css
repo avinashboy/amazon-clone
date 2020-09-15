@@ -1,0 +1,46 @@
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 45%;
+  background-color: #ecf0f1;
+}
+
+.footer__classs {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: -300px;
+}
+
+.footer__class>div {
+  margin-top: 5px;
+}
+
+.amazon_footer_text {
+  background-color: inherit;
+  color: #555555;
+  font-family: "Amazon Ember", Arial, sans-serif;
+  font-size: 11px;
+  line-height: 16.115px;
+  text-decoration: none solid rgb(85, 85, 85);
+  text-align: center;
+  word-spacing: 0px;
+}
+
+.banner {
+  font-size: 11px;
+  line-height: 16.115px;
+  display: flex;
+}
+
+.banner>span {
+  margin: 0 10px;
+  cursor: pointer;
+}
+
+
+.banner>span:hover {
+  color: #C45500;
+  text-decoration-line: underline;
+}
