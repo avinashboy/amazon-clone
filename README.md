@@ -16,7 +16,7 @@
 Here is the link to download zip 👉
 <a href='https://github.com/avinashboy/amazon-clone'>HERE</a>
 - Open the folder in VS Code
-- Edit <code>front-end/public/key/key.js</code> and add your both keys from firebase and stripe account
+- Edit <code>front-end/src/key/key.js</code> and add your both keys from firebase and stripe account
 - Edit <code>back-end/key.js</code> and add your key stripe secret account
 - Open terminal in VS Code
 - RUN <code>npm init</code> , this command can be used to set up a new or existing npm package
